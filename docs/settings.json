@@ -1,0 +1,235 @@
+{
+    "Questions": [
+        {
+            "AnswerOrder": [
+                {
+                    "AnswerId": 17,
+                    "Weight": 1
+                },
+                {
+                    "AnswerId": 24051,
+                    "Weight": 2
+                },
+                {
+                    "AnswerId": 18000,
+                    "Weight": 3
+                },
+                {
+                    "AnswerId": 18,
+                    "Weight": 4
+                },
+                {
+                    "AnswerId": 20,
+                    "Weight": 5
+                },
+                {
+                    "AnswerId": 24090,
+                    "Weight": 6
+                },
+                {
+                    "AnswerId": 19,
+                    "Weight": 7
+                }
+            ],
+            "Step": 1,
+            "Type": "Category",
+            "AnswerLimit": 2,
+            "Title": {
+                "Default": "What kind of product are you looking for?",
+                "Short": ""
+            },
+            "Subtitle": {
+                "Default": "Roll a joint, pack it into a bong, cook with it - it's all good! Select up to 2 categories",
+                "Short": ""
+            },
+            "Buttons": {
+                "Back": {
+                    "Title": {
+                        "Default": "Back",
+                        "Short": ""
+                    },
+                    "Visible": false
+                },
+                "Next": {
+                    "Title": {
+                        "Default": "Next",
+                        "Short": ""
+                    },
+                    "Visible": true
+                },
+                "Skip": {
+                    "Title": {
+                        "Default": "Skip",
+                        "Short": ""
+                    },
+                    "Visible": false
+                }
+            },
+            "MaxCount": 8,
+            "MinCount": 0,
+            "MinText": null,
+            "MaxText": null,
+            "ElementType": "MultipleChoice",
+            "IsOptional": false
+        },
+        {
+            "AnswerOrder": [],
+            "Step": 2,
+            "Type": "Effect",
+            "AnswerLimit": 2,
+            "Title": {
+                "Default": "How do you want to feel?",
+                "Short": ""
+            },
+            "Subtitle": {
+                "Default": "Select up to 2 effects",
+                "Short": ""
+            },
+            "Buttons": {
+                "Back": {
+                    "Title": {
+                        "Default": "Back",
+                        "Short": ""
+                    },
+                    "Visible": true
+                },
+                "Next": {
+                    "Title": {
+                        "Default": "Next",
+                        "Short": ""
+                    },
+                    "Visible": true
+                },
+                "Skip": {
+                    "Title": {
+                        "Default": "Skip",
+                        "Short": ""
+                    },
+                    "Visible": true
+                }
+            },
+            "MaxCount": 8,
+            "MinCount": 4,
+            "MinText": null,
+            "MaxText": null,
+            "ElementType": "MultipleChoice",
+            "IsOptional": true
+        },
+        {
+            "AnswerOrder": [],
+            "Step": 3,
+            "Type": "Flavor",
+            "AnswerLimit": 2,
+            "Title": {
+                "Default": "What do you want to taste?",
+                "Short": ""
+            },
+            "Subtitle": {
+                "Default": "Select up to 2 flavors",
+                "Short": ""
+            },
+            "Buttons": {
+                "Back": {
+                    "Title": {
+                        "Default": "Back",
+                        "Short": ""
+                    },
+                    "Visible": true
+                },
+                "Next": {
+                    "Title": {
+                        "Default": "Next",
+                        "Short": ""
+                    },
+                    "Visible": true
+                },
+                "Skip": {
+                    "Title": {
+                        "Default": "Skip",
+                        "Short": ""
+                    },
+                    "Visible": true
+                }
+            },
+            "MaxCount": 8,
+            "MinCount": 4,
+            "MinText": null,
+            "MaxText": null,
+            "ElementType": "MultipleChoice",
+            "IsOptional": true
+        },
+        {
+            "AnswerOrder": [],
+            "Step": 4,
+            "Type": "Strength",
+            "AnswerLimit": 1,
+            "Title": {
+                "Default": "How strong of a product do you want?",
+                "Short": ""
+            },
+            "Subtitle": {
+                "Default": "Drag the slider below",
+                "Short": ""
+            },
+            "Buttons": {
+                "Back": {
+                    "Title": {
+                        "Default": "Back",
+                        "Short": ""
+                    },
+                    "Visible": true
+                },
+                "Next": {
+                    "Title": {
+                        "Default": "Next",
+                        "Short": ""
+                    },
+                    "Visible": true
+                },
+                "Skip": {
+                    "Title": {
+                        "Default": "Skip",
+                        "Short": ""
+                    },
+                    "Visible": false
+                }
+            },
+            "MaxCount": 5,
+            "MinCount": 0,
+            "MinText": {
+                "Default": "Very mild",
+                "Short": ""
+            },
+            "MaxText": {
+                "Default": "Very strong",
+                "Short": ""
+            },
+            "ElementType": "Range",
+            "IsOptional": false
+        }
+    ],
+    "StartOver": {
+        "Default": "Start over",
+        "Short": ""
+    },
+    "Tooltip": {
+        "Default": "Personalized picks in just a few taps.\nTell us your preferences and get products that fit you best.",
+        "Short": "Personalized picks in just a few taps."
+    },
+    "ProductCount": 8,
+    "ResultTitle": {
+        "Default": "Best matches",
+        "Short": ""
+    },
+    "NotFoundMessage": {
+        "Default": "There is no products for your preference, please change any of them and try again",
+        "Short": ""
+    },
+    "ProductCatalogMaxCount": 30,
+    "AiMatchingMaxPercent": 97,
+    "AiMatchingStep": 3,
+    "IconLabel": {
+        "Default": "Virtual Bud",
+        "Short": ""
+    }
+}

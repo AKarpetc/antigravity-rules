@@ -1,0 +1,316 @@
+{
+    "CartAssistant": {
+        "Questions": [
+            {
+                "Answers": [
+                    {
+                        "Id": 27376,
+                        "Order": 0,
+                        "Title": "Concentrates",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Default.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 24089,
+                        "Order": 1,
+                        "Title": "Flower",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_01_Flower.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 29,
+                        "Order": 2,
+                        "Title": "Edibles",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_04_Edibles.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 27375,
+                        "Order": 3,
+                        "Title": "Beverages",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Default.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 24052,
+                        "Order": 4,
+                        "Title": "Tincture",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_08_Tinctures.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 24012,
+                        "Order": 5,
+                        "Title": "Pre-Rolls",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_05_Pre_rolls.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 24093,
+                        "Order": 6,
+                        "Title": "Topicals",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_09_Topicals.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 24095,
+                        "Order": 7,
+                        "Title": "Vape",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_02_Vapes.svg",
+                        "Value": ""
+                    }
+                ],
+                "Step": 1,
+                "Type": "Category",
+                "AnswerLimit": 2,
+                "ElementType": "MultipleChoice",
+                "Title": "What kind of product are you looking for?",
+                "Subtitle": "Roll a joint, pack it into a bong, cook with it - it's all good! Select up to 2 categories",
+                "Buttons": {
+                    "Back": {
+                        "Title": "Back",
+                        "Visible": false
+                    },
+                    "Next": {
+                        "Title": "Next",
+                        "Visible": true
+                    },
+                    "Skip": {
+                        "Title": "Skip",
+                        "Visible": false
+                    }
+                },
+                "IsOptional": false
+            },
+            {
+                "Answers": [
+                    {
+                        "Id": 437,
+                        "Order": 0,
+                        "Title": "Focus",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_19_Focused.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 438,
+                        "Order": 1,
+                        "Title": "Energetic",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_17_Energetic.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 441,
+                        "Order": 2,
+                        "Title": "Creative",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_16_Creative.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 436,
+                        "Order": 3,
+                        "Title": "Rise",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_23_Mood_booster.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 435,
+                        "Order": 4,
+                        "Title": "Happy",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_20_Happy.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 439,
+                        "Order": 5,
+                        "Title": "Sleep",
+                        "Image": "https://media.sweedpos.com/store/production/ready-sleepery.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 440,
+                        "Order": 6,
+                        "Title": "Uplifting",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_30_Uplifting.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 442,
+                        "Order": 7,
+                        "Title": "Calm",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/Ai_Budtender_15_Calm.svg",
+                        "Value": ""
+                    }
+                ],
+                "Step": 2,
+                "Type": "Effect",
+                "AnswerLimit": 2,
+                "ElementType": "MultipleChoice",
+                "Title": "How do you want to feel?",
+                "Subtitle": "Select up to 2 effects",
+                "Buttons": {
+                    "Back": {
+                        "Title": "Back",
+                        "Visible": true
+                    },
+                    "Next": {
+                        "Title": "Next",
+                        "Visible": true
+                    },
+                    "Skip": {
+                        "Title": "Skip",
+                        "Visible": true
+                    }
+                },
+                "IsOptional": true
+            },
+            {
+                "Answers": [
+                    {
+                        "Id": 7017,
+                        "Order": 0,
+                        "Title": "Sour",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/ready-2_Citrus.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 7900,
+                        "Order": 1,
+                        "Title": "Earthy",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/ready-5_Earthy_&_Floral.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 7014,
+                        "Order": 2,
+                        "Title": "Spicy",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/ready-6_Spicy_&_Savory.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 7015,
+                        "Order": 3,
+                        "Title": "Banana",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/ready-3_Fruit.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 7016,
+                        "Order": 4,
+                        "Title": "Cherry",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/ready-1_Berry.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 7901,
+                        "Order": 5,
+                        "Title": "Chocolate",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/ready-4_Sweet_&_Creamy.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 7010,
+                        "Order": 6,
+                        "Title": "Citrusy",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/ready-2_Citrus.svg",
+                        "Value": ""
+                    },
+                    {
+                        "Id": 7955,
+                        "Order": 7,
+                        "Title": "Fruity",
+                        "Image": "https://media.sweedpos.com/store/production/static/budtender/ready-3_Fruit.svg",
+                        "Value": ""
+                    }
+                ],
+                "Step": 3,
+                "Type": "Flavor",
+                "AnswerLimit": 2,
+                "ElementType": "MultipleChoice",
+                "Title": "What do you want to taste?",
+                "Subtitle": "Select up to 2 flavors",
+                "Buttons": {
+                    "Back": {
+                        "Title": "Back",
+                        "Visible": true
+                    },
+                    "Next": {
+                        "Title": "Next",
+                        "Visible": true
+                    },
+                    "Skip": {
+                        "Title": "Skip",
+                        "Visible": true
+                    }
+                },
+                "IsOptional": true
+            },
+            {
+                "Answers": [
+                    {
+                        "Id": 20,
+                        "Order": 0,
+                        "Title": "Very mild",
+                        "Image": "",
+                        "Value": "0"
+                    },
+                    {
+                        "Id": 40,
+                        "Order": 1,
+                        "Title": "",
+                        "Image": "",
+                        "Value": "1"
+                    },
+                    {
+                        "Id": 60,
+                        "Order": 2,
+                        "Title": "",
+                        "Image": "",
+                        "Value": "2"
+                    },
+                    {
+                        "Id": 80,
+                        "Order": 3,
+                        "Title": "",
+                        "Image": "",
+                        "Value": "3"
+                    },
+                    {
+                        "Id": 100,
+                        "Order": 4,
+                        "Title": "Very strong",
+                        "Image": "",
+                        "Value": "4"
+                    }
+                ],
+                "Step": 4,
+                "Type": "Strength",
+                "AnswerLimit": 1,
+                "ElementType": "Range",
+                "Title": "How strong of a product do you want?",
+                "Subtitle": "Drag the slider below",
+                "Buttons": {
+                    "Back": {
+                        "Title": "Back",
+                        "Visible": true
+                    },
+                    "Next": {
+                        "Title": "Next",
+                        "Visible": true
+                    },
+                    "Skip": {
+                        "Title": "Skip",
+                        "Visible": false
+                    }
+                },
+                "IsOptional": false
+            }
+        ],
+        "Total": 4,
+        "ResultTitle": "Best matches",
+        "StartOver": "Start over",
+        "Tooltip": "Personalized picks in just a few taps.",
+        "NotFoundMessage": "There is no products for your preference, please change any of them and try again",
+        "IconLabel": "AI Picker"
+    },
+    "Error": null
+}

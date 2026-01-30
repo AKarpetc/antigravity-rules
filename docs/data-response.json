@@ -1,0 +1,2116 @@
+{
+    "OptionSetList": [
+        {
+            "SelectableQuestionOptions": [
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Edibles"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Edibles"
+                                }
+                            ],
+                            "Id": 20,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Flower"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Flower"
+                                }
+                            ],
+                            "Id": 17,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Cartridges"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Cartridges"
+                                }
+                            ],
+                            "Id": 18000,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Pre-Rolls"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Pre-Rolls"
+                                }
+                            ],
+                            "Id": 24051,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Topicals"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Topicals"
+                                }
+                            ],
+                            "Id": 19,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Tinctures"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Tinctures"
+                                }
+                            ],
+                            "Id": 24090,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Concentrate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Concentrate"
+                                }
+                            ],
+                            "Id": 18,
+                            "Order": 6
+                        }
+                    ],
+                    "QuestionType": "Category"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Relaxed"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Relaxed"
+                                }
+                            ],
+                            "Id": 389,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Happy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Happy"
+                                }
+                            ],
+                            "Id": 384,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Energizing"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Energizing"
+                                }
+                            ],
+                            "Id": 380,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Creative"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Creative"
+                                }
+                            ],
+                            "Id": 376,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Sleepy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Sleepy"
+                                }
+                            ],
+                            "Id": 391,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blissful"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blissful"
+                                }
+                            ],
+                            "Id": 373,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Calming"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Calming"
+                                }
+                            ],
+                            "Id": 374,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Stress Relieving"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Stress Relieving"
+                                }
+                            ],
+                            "Id": 393,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Effect"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Berries"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Berries"
+                                }
+                            ],
+                            "Id": 7749,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Chocolate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Chocolate"
+                                }
+                            ],
+                            "Id": 7755,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Citrus"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Citrus"
+                                }
+                            ],
+                            "Id": 7756,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Gassy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Gassy"
+                                }
+                            ],
+                            "Id": 7766,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Orange"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Orange"
+                                }
+                            ],
+                            "Id": 7044,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Grape"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Grape"
+                                }
+                            ],
+                            "Id": 7037,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blackberry"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blackberry"
+                                }
+                            ],
+                            "Id": 7035,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Sour Watermelon"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Sour Watermelon"
+                                }
+                            ],
+                            "Id": 7040,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Flavor"
+                }
+            ],
+            "RangeOptions": [
+                {
+                    "QuestionType": "Strength",
+                    "Range": {
+                        "Min": "",
+                        "Max": "25.5300"
+                    }
+                }
+            ],
+            "SaleType": "Medical",
+            "StockType": "Ecom"
+        },
+        {
+            "SelectableQuestionOptions": [
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Edibles"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Edibles"
+                                }
+                            ],
+                            "Id": 20,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Flower"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Flower"
+                                }
+                            ],
+                            "Id": 17,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Cartridges"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Cartridges"
+                                }
+                            ],
+                            "Id": 18000,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Pre-Rolls"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Pre-Rolls"
+                                }
+                            ],
+                            "Id": 24051,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Tinctures"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Tinctures"
+                                }
+                            ],
+                            "Id": 24090,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Concentrate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Concentrate"
+                                }
+                            ],
+                            "Id": 18,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Topicals"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Topicals"
+                                }
+                            ],
+                            "Id": 19,
+                            "Order": 6
+                        }
+                    ],
+                    "QuestionType": "Category"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Relaxed"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Relaxed"
+                                }
+                            ],
+                            "Id": 389,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Happy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Happy"
+                                }
+                            ],
+                            "Id": 384,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Energizing"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Energizing"
+                                }
+                            ],
+                            "Id": 380,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Creative"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Creative"
+                                }
+                            ],
+                            "Id": 376,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Sleepy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Sleepy"
+                                }
+                            ],
+                            "Id": 391,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Calming"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Calming"
+                                }
+                            ],
+                            "Id": 374,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blissful"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blissful"
+                                }
+                            ],
+                            "Id": 373,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Uplifting"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Uplifting"
+                                }
+                            ],
+                            "Id": 396,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Effect"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Chocolate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Chocolate"
+                                }
+                            ],
+                            "Id": 7755,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Berries"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Berries"
+                                }
+                            ],
+                            "Id": 7749,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Citrus"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Citrus"
+                                }
+                            ],
+                            "Id": 7756,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Caramel"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Caramel"
+                                }
+                            ],
+                            "Id": 7752,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Gassy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Gassy"
+                                }
+                            ],
+                            "Id": 7766,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Orange"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Orange"
+                                }
+                            ],
+                            "Id": 7044,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blueberry"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blueberry"
+                                }
+                            ],
+                            "Id": 7751,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Grape"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Grape"
+                                }
+                            ],
+                            "Id": 7037,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Flavor"
+                }
+            ],
+            "RangeOptions": [
+                {
+                    "QuestionType": "Strength",
+                    "Range": {
+                        "Min": "",
+                        "Max": "25.5300"
+                    }
+                }
+            ],
+            "SaleType": "Recreational",
+            "StockType": "Ecom"
+        },
+        {
+            "SelectableQuestionOptions": [
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Edibles"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Edibles"
+                                }
+                            ],
+                            "Id": 20,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Flower"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Flower"
+                                }
+                            ],
+                            "Id": 17,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Cartridges"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Cartridges"
+                                }
+                            ],
+                            "Id": 18000,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Pre-Rolls"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Pre-Rolls"
+                                }
+                            ],
+                            "Id": 24051,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Topicals"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Topicals"
+                                }
+                            ],
+                            "Id": 19,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Concentrate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Concentrate"
+                                }
+                            ],
+                            "Id": 18,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Tinctures"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Tinctures"
+                                }
+                            ],
+                            "Id": 24090,
+                            "Order": 6
+                        }
+                    ],
+                    "QuestionType": "Category"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Relaxed"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Relaxed"
+                                }
+                            ],
+                            "Id": 389,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Happy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Happy"
+                                }
+                            ],
+                            "Id": 384,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Energizing"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Energizing"
+                                }
+                            ],
+                            "Id": 380,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Creative"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Creative"
+                                }
+                            ],
+                            "Id": 376,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Sleepy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Sleepy"
+                                }
+                            ],
+                            "Id": 391,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blissful"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blissful"
+                                }
+                            ],
+                            "Id": 373,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Calming"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Calming"
+                                }
+                            ],
+                            "Id": 374,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Stress Relieving"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Stress Relieving"
+                                }
+                            ],
+                            "Id": 393,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Effect"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Berries"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Berries"
+                                }
+                            ],
+                            "Id": 7749,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Chocolate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Chocolate"
+                                }
+                            ],
+                            "Id": 7755,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Citrus"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Citrus"
+                                }
+                            ],
+                            "Id": 7756,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Gassy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Gassy"
+                                }
+                            ],
+                            "Id": 7766,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Orange"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Orange"
+                                }
+                            ],
+                            "Id": 7044,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Grape"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Grape"
+                                }
+                            ],
+                            "Id": 7037,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blackberry"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blackberry"
+                                }
+                            ],
+                            "Id": 7035,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Sour Watermelon"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Sour Watermelon"
+                                }
+                            ],
+                            "Id": 7040,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Flavor"
+                }
+            ],
+            "RangeOptions": [
+                {
+                    "QuestionType": "Strength",
+                    "Range": {
+                        "Min": "",
+                        "Max": "25.5300"
+                    }
+                }
+            ],
+            "SaleType": "Medical",
+            "StockType": "InStore"
+        },
+        {
+            "SelectableQuestionOptions": [
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Edibles"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Edibles"
+                                }
+                            ],
+                            "Id": 20,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Flower"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Flower"
+                                }
+                            ],
+                            "Id": 17,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Cartridges"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Cartridges"
+                                }
+                            ],
+                            "Id": 18000,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Pre-Rolls"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Pre-Rolls"
+                                }
+                            ],
+                            "Id": 24051,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Concentrate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Concentrate"
+                                }
+                            ],
+                            "Id": 18,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Tinctures"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Tinctures"
+                                }
+                            ],
+                            "Id": 24090,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Topicals"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Topicals"
+                                }
+                            ],
+                            "Id": 19,
+                            "Order": 6
+                        }
+                    ],
+                    "QuestionType": "Category"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Relaxed"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Relaxed"
+                                }
+                            ],
+                            "Id": 389,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Happy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Happy"
+                                }
+                            ],
+                            "Id": 384,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Energizing"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Energizing"
+                                }
+                            ],
+                            "Id": 380,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Creative"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Creative"
+                                }
+                            ],
+                            "Id": 376,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Sleepy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Sleepy"
+                                }
+                            ],
+                            "Id": 391,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Calming"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Calming"
+                                }
+                            ],
+                            "Id": 374,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blissful"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blissful"
+                                }
+                            ],
+                            "Id": 373,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Uplifting"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Uplifting"
+                                }
+                            ],
+                            "Id": 396,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Effect"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Chocolate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Chocolate"
+                                }
+                            ],
+                            "Id": 7755,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Berries"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Berries"
+                                }
+                            ],
+                            "Id": 7749,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Citrus"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Citrus"
+                                }
+                            ],
+                            "Id": 7756,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Caramel"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Caramel"
+                                }
+                            ],
+                            "Id": 7752,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Gassy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Gassy"
+                                }
+                            ],
+                            "Id": 7766,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Orange"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Orange"
+                                }
+                            ],
+                            "Id": 7044,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blueberry"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blueberry"
+                                }
+                            ],
+                            "Id": 7751,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Grape"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Grape"
+                                }
+                            ],
+                            "Id": 7037,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Flavor"
+                }
+            ],
+            "RangeOptions": [
+                {
+                    "QuestionType": "Strength",
+                    "Range": {
+                        "Min": "",
+                        "Max": "25.5300"
+                    }
+                }
+            ],
+            "SaleType": "Recreational",
+            "StockType": "InStore"
+        },
+        {
+            "SelectableQuestionOptions": [
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Edibles"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Edibles"
+                                }
+                            ],
+                            "Id": 20,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Flower"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Flower"
+                                }
+                            ],
+                            "Id": 17,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Cartridges"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Cartridges"
+                                }
+                            ],
+                            "Id": 18000,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Pre-Rolls"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Pre-Rolls"
+                                }
+                            ],
+                            "Id": 24051,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Topicals"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Topicals"
+                                }
+                            ],
+                            "Id": 19,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Concentrate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Concentrate"
+                                }
+                            ],
+                            "Id": 18,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Tinctures"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Tinctures"
+                                }
+                            ],
+                            "Id": 24090,
+                            "Order": 6
+                        }
+                    ],
+                    "QuestionType": "Category"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Relaxed"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Relaxed"
+                                }
+                            ],
+                            "Id": 389,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Happy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Happy"
+                                }
+                            ],
+                            "Id": 384,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Energizing"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Energizing"
+                                }
+                            ],
+                            "Id": 380,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Creative"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Creative"
+                                }
+                            ],
+                            "Id": 376,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Sleepy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Sleepy"
+                                }
+                            ],
+                            "Id": 391,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blissful"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blissful"
+                                }
+                            ],
+                            "Id": 373,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Calming"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Calming"
+                                }
+                            ],
+                            "Id": 374,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Stress Relieving"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Stress Relieving"
+                                }
+                            ],
+                            "Id": 393,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Effect"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Berries"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Berries"
+                                }
+                            ],
+                            "Id": 7749,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Chocolate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Chocolate"
+                                }
+                            ],
+                            "Id": 7755,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Citrus"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Citrus"
+                                }
+                            ],
+                            "Id": 7756,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Gassy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Gassy"
+                                }
+                            ],
+                            "Id": 7766,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Orange"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Orange"
+                                }
+                            ],
+                            "Id": 7044,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Grape"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Grape"
+                                }
+                            ],
+                            "Id": 7037,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blackberry"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blackberry"
+                                }
+                            ],
+                            "Id": 7035,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Sour Watermelon"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Sour Watermelon"
+                                }
+                            ],
+                            "Id": 7040,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Flavor"
+                }
+            ],
+            "RangeOptions": [
+                {
+                    "QuestionType": "Strength",
+                    "Range": {
+                        "Min": "",
+                        "Max": "25.5300"
+                    }
+                }
+            ],
+            "SaleType": "Medical",
+            "StockType": "Kiosk"
+        },
+        {
+            "SelectableQuestionOptions": [
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Edibles"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Edibles"
+                                }
+                            ],
+                            "Id": 20,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Flower"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Flower"
+                                }
+                            ],
+                            "Id": 17,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Cartridges"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Cartridges"
+                                }
+                            ],
+                            "Id": 18000,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Pre-Rolls"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Pre-Rolls"
+                                }
+                            ],
+                            "Id": 24051,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Concentrate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Concentrate"
+                                }
+                            ],
+                            "Id": 18,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Tinctures"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Tinctures"
+                                }
+                            ],
+                            "Id": 24090,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Topicals"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Topicals"
+                                }
+                            ],
+                            "Id": 19,
+                            "Order": 6
+                        }
+                    ],
+                    "QuestionType": "Category"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Relaxed"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Relaxed"
+                                }
+                            ],
+                            "Id": 389,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Happy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Happy"
+                                }
+                            ],
+                            "Id": 384,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Energizing"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Energizing"
+                                }
+                            ],
+                            "Id": 380,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Creative"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Creative"
+                                }
+                            ],
+                            "Id": 376,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Sleepy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Sleepy"
+                                }
+                            ],
+                            "Id": 391,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Calming"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Calming"
+                                }
+                            ],
+                            "Id": 374,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blissful"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blissful"
+                                }
+                            ],
+                            "Id": 373,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Uplifting"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Uplifting"
+                                }
+                            ],
+                            "Id": 396,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Effect"
+                },
+                {
+                    "Options": [
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Chocolate"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Chocolate"
+                                }
+                            ],
+                            "Id": 7755,
+                            "Order": 0
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Berries"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Berries"
+                                }
+                            ],
+                            "Id": 7749,
+                            "Order": 1
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Citrus"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Citrus"
+                                }
+                            ],
+                            "Id": 7756,
+                            "Order": 2
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Caramel"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Caramel"
+                                }
+                            ],
+                            "Id": 7752,
+                            "Order": 3
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Gassy"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Gassy"
+                                }
+                            ],
+                            "Id": 7766,
+                            "Order": 4
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Orange"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Orange"
+                                }
+                            ],
+                            "Id": 7044,
+                            "Order": 5
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Blueberry"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Blueberry"
+                                }
+                            ],
+                            "Id": 7751,
+                            "Order": 6
+                        },
+                        {
+                            "Titles": [
+                                {
+                                    "Type": "Basic",
+                                    "Title": "Grape"
+                                },
+                                {
+                                    "Type": "None",
+                                    "Title": "Grape"
+                                }
+                            ],
+                            "Id": 7037,
+                            "Order": 7
+                        }
+                    ],
+                    "QuestionType": "Flavor"
+                }
+            ],
+            "RangeOptions": [
+                {
+                    "QuestionType": "Strength",
+                    "Range": {
+                        "Min": "",
+                        "Max": "25.5300"
+                    }
+                }
+            ],
+            "SaleType": "Recreational",
+            "StockType": "Kiosk"
+        }
+    ]
+}

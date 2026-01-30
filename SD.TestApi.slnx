@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SD.TestApi.Application/SD.TestApi.Application.csproj" />
+    <Project Path="src/SD.TestApi.Domain/SD.TestApi.Domain.csproj" />
+    <Project Path="src/SD.TestApi.Grpc.Contracts/SD.TestApi.Grpc.Contracts.csproj" />
+    <Project Path="src/SD.TestApi.Grpc/SD.TestApi.Grpc.csproj" />
+    <Project Path="src/SD.TestApi.Infrastructure/SD.TestApi.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SD.TestApi.Application.Tests/SD.TestApi.Application.Tests.csproj" />
+    <Project Path="tests/SD.TestApi.Domain.Tests/SD.TestApi.Domain.Tests.csproj" />
+  </Folder>
+</Solution>

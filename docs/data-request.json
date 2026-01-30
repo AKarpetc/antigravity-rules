@@ -1,0 +1,21 @@
+{
+    "StoreId": 19,
+    "OptionLimits": [
+        {
+            "MaxCount": 8,
+            "QuestionType": "Category"
+        },
+        {
+            "MaxCount": 8,
+            "QuestionType": "Effect"
+        },
+        {
+            "MaxCount": 8,
+            "QuestionType": "Flavor"
+        },
+        {
+            "MaxCount": 5,
+            "QuestionType": "Strength"
+        }
+    ]
+}
